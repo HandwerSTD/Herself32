@@ -9,7 +9,9 @@ Added:
 - Python
 - Batch
 - Bash
+- PHP
 - M↓
 - Plaintext
 - Node.js
 - Ini
+- Pascal
