@@ -15,3 +15,8 @@ Added:
 - Node.js
 - Ini
 - Pascal
+- MD5SUM
+- SHA1SUM
+- SHA256SUM
+- SHA384SUM
+- SHA512SUM
