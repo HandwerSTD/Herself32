@@ -12,3 +12,4 @@ Added:
 - M↓
 - Plaintext
 - Node.js
+- Ini
