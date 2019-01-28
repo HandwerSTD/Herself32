@@ -1,2 +1,3 @@
-echo "Herself32 %%%"
+@echo off
+echo stO Herself32 Orz
 echo.
