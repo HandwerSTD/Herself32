@@ -1,9 +1,9 @@
 # Herself32-QAQ
-Herself32 is too powerful, let's admire him in different programming languages.
+Herself32 is too powerful, let's admire him in different programming languages.   
 
 ## Target
 Write "Herself32 %%%" to console.   
-
+If the language does not allow to control console, just do sth that shows Herself32 is dalao.
 
 ## Added languages
 - C
