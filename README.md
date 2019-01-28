@@ -3,9 +3,9 @@ Herself32 is too strong, let's admire him in different programming languages.
 
 Target: Write "Herself32 %%%" to console.   
 Added languages: 
-- C++
 - C
-- C++: Win Lib
+- C++
+- C++ - MessageBox
 - HTML
 - C#
 - Python
