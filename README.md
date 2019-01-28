@@ -1,5 +1,5 @@
 # Herself32-QAQ
-Herself32 is too strong, let's admire him in different programming languages.
+Herself32 is too powerful, let's admire him in different programming languages.
 
 Target: Write "Herself32 %%%" to console.   
 Added languages: 
