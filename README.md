@@ -23,3 +23,4 @@ Added languages:
 - SHA256SUM
 - SHA384SUM
 - SHA512SUM
+- Obj-C
