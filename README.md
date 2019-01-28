@@ -11,6 +11,7 @@ Added:
 - Bash
 - PHP
 - M↓
+- Go
 - Plaintext
 - Node.js
 - Ini
