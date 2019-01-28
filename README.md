@@ -9,6 +9,7 @@ Write "Herself32 %%%" to console.
 - C
 - C++
 - C++ - MessageBox
+- Java
 - HTML
 - C#
 - Python
