@@ -6,6 +6,7 @@ Added:
 - C
 - C++: Win Lib
 - HTML
+- C#
 - Python
 - Batch
 - Bash
