@@ -1,1 +1,2 @@
-Herself32%%%
+<?php
+echo "Herself32 %%%";
