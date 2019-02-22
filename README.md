@@ -1,4 +1,4 @@
-# Herself32-QAQ
+# Herself32
 Herself32 is too powerful, let's admire him in different programming languages.   
 
 ## Target
