@@ -2,7 +2,7 @@
 Herself32 is too powerful, let's admire him in different programming languages.   
 
 ## Target
-Write "Herself32 %%%" to console or just do sth that shows Herself32 is dalao.
+Write "Herself32 %%%" to console or just do something that shows Herself32 is dalao.
 
 ## Added languages
 - C(.c)
